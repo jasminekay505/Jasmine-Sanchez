@@ -1,0 +1,14 @@
+h2{
+    font-weight: bold;
+    border-bottom-style: solid;
+    border-bottom-color: lightgray;
+}
+
+.headshot{
+    width:8rem;
+    height: auto;
+    
+}
+.jumbotron { 
+    background-color: #6c757d;;
+}
