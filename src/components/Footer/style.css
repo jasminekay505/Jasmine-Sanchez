@@ -1,0 +1,14 @@
+.navbar-text{
+    margin:0 auto;
+    font-size: 10px;
+}
+
+.footer{
+    border-top: 8px solid gray;
+    font-size: 10px;
+    position: fixed;
+    left: 0;
+    right:0;
+    bottom: 0;
+    width: 100%;
+}

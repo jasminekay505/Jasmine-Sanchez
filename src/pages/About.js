@@ -1,12 +1,13 @@
 import React from "react";
-import Nav from "../components/NavBar";
-import Header from "../components/Header";
+import Contact from "../components/Contact";
+
 
 function About() {
     return (
         <div>
-            <Nav />
-            <Header />
+
+           <Contact />
+
         </div>
 
     )
