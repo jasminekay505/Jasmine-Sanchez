@@ -6,3 +6,8 @@
     border:none;
     font-size: 1rem;
 }
+h2{
+    font-weight: bold;
+    border-bottom-style: solid;
+    border-bottom-color: lightgray;
+}
