@@ -1,0 +1,8 @@
+.card {
+    width: 40rem; 
+    margin: 1rem;
+}
+.card-header { 
+    width: 500px;
+    height: auto;
+}
