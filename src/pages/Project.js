@@ -1,9 +1,23 @@
 import React from "react";
+import projects from "../utils/project";
+import projectCard from "../components/ProjectCard";
+import ProjectCard from "../components/ProjectCard";
 
-function Project () { 
-    return ( 
-        <div>
-
+function Project() {
+    return (
+        <div className="container-md">
+            <div className="row justify-content-center">
+               {projects.map((card,index)=> { 
+                   return <ProjectCard
+                        key = {index}
+                        title = {card.title}
+                        description = {card.description}
+                        img = {card.img}
+                        appLink = {card.appLink}
+                        gitHubLink = {card.gitHubLink}
+                   />
+               })}
+            </div>
         </div>
     )
 }

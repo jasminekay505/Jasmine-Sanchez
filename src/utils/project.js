@@ -63,6 +63,6 @@ const weatherDashboard = new ProjectCard(
     "https://github.com/jasminekay505/Weather-Dashboard"
 );
 
-let portfolio = [bookSearch, codingQuiz, cureForBoredom, dejaBrew, techBlog, weatherDashboard];
+let projects = [bookSearch, codingQuiz, cureForBoredom, dejaBrew, techBlog, weatherDashboard];
 
-export default portfolio;
+export default projects;
