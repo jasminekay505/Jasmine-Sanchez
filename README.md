@@ -10,7 +10,7 @@ https://jasminekay505.github.io/Jasmine-Sanchez/#/
 - React
 
 ## Screenshot of Application
-
+![image](https://user-images.githubusercontent.com/74380703/120257711-48292780-c2c3-11eb-8b1a-076d6371ba30.png)
 
 ## License
 ISC
