@@ -4,7 +4,7 @@
 This application is my personal portfolio built with React to showcase my coding projects. 
 
 ## Link to Application
-https://jasminekay505.github.io/Jasmine-Sanchez/#/
+https://jasminekay505.github.io/Jasmine-Sanchez/
 
 ## Technologies Used
 - React
