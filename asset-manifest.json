@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Jasmine-Sanchez/static/css/main.928b8b36.chunk.css",
+    "main.js": "/Jasmine-Sanchez/static/js/main.e9aa1fe7.chunk.js",
+    "main.js.map": "/Jasmine-Sanchez/static/js/main.e9aa1fe7.chunk.js.map",
+    "runtime-main.js": "/Jasmine-Sanchez/static/js/runtime-main.2d375920.js",
+    "runtime-main.js.map": "/Jasmine-Sanchez/static/js/runtime-main.2d375920.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/Jasmine-Sanchez/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.33d2015d.chunk.js": "/Jasmine-Sanchez/static/js/2.33d2015d.chunk.js",
+    "static/js/2.33d2015d.chunk.js.map": "/Jasmine-Sanchez/static/js/2.33d2015d.chunk.js.map",
+    "index.html": "/Jasmine-Sanchez/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/Jasmine-Sanchez/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.928b8b36.chunk.css.map": "/Jasmine-Sanchez/static/css/main.928b8b36.chunk.css.map",
+    "static/js/2.33d2015d.chunk.js.LICENSE.txt": "/Jasmine-Sanchez/static/js/2.33d2015d.chunk.js.LICENSE.txt",
+    "static/media/Coding-Quiz-Time.7a41320c.jpg": "/Jasmine-Sanchez/static/media/Coding-Quiz-Time.7a41320c.jpg",
+    "static/media/booksearch.cf9f6dc6.jpg": "/Jasmine-Sanchez/static/media/booksearch.cf9f6dc6.jpg",
+    "static/media/cureforboredom.1e6ab69a.JPG": "/Jasmine-Sanchez/static/media/cureforboredom.1e6ab69a.JPG",
+    "static/media/dejabrew.1fbd66de.JPG": "/Jasmine-Sanchez/static/media/dejabrew.1fbd66de.JPG",
+    "static/media/headshot.0b3f928d.jpg": "/Jasmine-Sanchez/static/media/headshot.0b3f928d.jpg",
+    "static/media/thetechblog.3ac0870e.png": "/Jasmine-Sanchez/static/media/thetechblog.3ac0870e.png",
+    "static/media/weatherdashboard.30d3e2e1.JPG": "/Jasmine-Sanchez/static/media/weatherdashboard.30d3e2e1.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d375920.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.33d2015d.chunk.js",
+    "static/css/main.928b8b36.chunk.css",
+    "static/js/main.e9aa1fe7.chunk.js"
+  ]
+}
